@@ -1,4 +1,6 @@
-# Directory 명령어
+# 2주차
+
+### Directory 명령어
 
 + **/ : root directory**
 + **\~ : home**
